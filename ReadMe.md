@@ -31,6 +31,7 @@ kTools is the main part of this repo, it is a framework to add more tools to NPP
 	* ```JSNice.js``` - [A statistical deobfuscator of JS](http://jsnice.org/). Infers names using [CRF](https://en.wikipedia.org/wiki/Conditional_random_field). [More info](http://www.srl.inf.ethz.ch/jsnice.php).
 	* ```leeter.js``` - allows you convert text to [1337 5?34|<](https://encyclopediadramatica.es/1337)
 	* ```PHPLint.js``` - binding to [PHPLint](http://www.icosaedro.it/phplint/), you'll have to edit the file to write correct path to it
+	* ```KaitaiStructCompiler.js``` - binding to [Kaitai Struct compiler](https://github.com/kaitai-io/kaitai_struct), you'll have to edit the file to write correct path to it
 	* ```deobfusctators.js``` - some self-written deobfuscators generally for JS. The name of obfuscator is often unknown (I'll be glad if you will say me the name if you know it).
 
 Move any of these files into "includes/disabled" to disable it. For example clearcase.js if you don't know what is this :-).

@@ -1,0 +1,3 @@
+[submodule "lib/leeter.js"]
+	path = lib/leeter.js
+	url = https://github.com/KOLANICH/Leeter.js.git

@@ -206,6 +206,7 @@ require["currentModule"] = {exports:{}};
 require("lib/es5-shim.js");
 /*require("lib/es6-shim.js"); //for now not needed, uncomment if needed*/
 require("lib/ECMA262.js");
+require("lib/MsgBoxConstants.js");
 
 /**
 	Is an Interface for Setting and Reading of Settings
